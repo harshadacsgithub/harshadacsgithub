@@ -7,6 +7,8 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harshadacsgithub&label=Profile%20views&color=0e75b6&style=flat" alt="harshadacsgithub" />
 </p>
+<br>
+<br>
 
 - 🔭 I’m currently working on **Front end technologies**
 
@@ -18,6 +20,8 @@
 
 - ⚡ Fun fact: **I am so frank to talk about the tech domain and collaborative work**
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/harshada-jagtap-611826253" target="blank">
@@ -28,7 +32,7 @@
   </a>
 </p>
 <br>
-<br>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -80,7 +84,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshadacsgithub&show_icons=true&locale=en" alt="harshadacsgithub" />
 </p>
-
+<br>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshadacsgithub&" alt="harshadacsgithub" />
 </p>
