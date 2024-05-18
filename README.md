@@ -27,7 +27,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harshada_2003" height="30" width="40" />
   </a>
 </p>
-
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -74,7 +75,8 @@
     <img src="https://github-profile-trophy.vercel.app/?username=harshadacsgithub" alt="harshadacsgithub" />
   </a>
 </p>
-
+<br>
+<br>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshadacsgithub&show_icons=true&locale=en" alt="harshadacsgithub" />
 </p>
