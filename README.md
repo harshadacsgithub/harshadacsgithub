@@ -3,7 +3,7 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Harshada Jagtap</h1>
 🚀 Welcome to my GitHub space! I'm a passionate Web Developer with a relentless enthusiasm for creating seamless and efficient web applications. I specialize in React.js, Java, and PHP.
-
+<br>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=harshadacsgithub&label=Profile%20views&color=0e75b6&style=flat" alt="harshadacsgithub" />
 </p>
@@ -31,7 +31,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harshada_2003" height="30" width="40" />
   </a>
 </p>
-<br>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -79,7 +79,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=harshadacsgithub" alt="harshadacsgithub" />
   </a>
 </p>
-<br>
 <br>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshadacsgithub&show_icons=true&locale=en" alt="harshadacsgithub" />
