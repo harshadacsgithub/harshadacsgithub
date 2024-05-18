@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 # 💫 About Me:
-🚀 Welcome to my GitHub space! I'm passionate Full-stack Developer with a relentless enthusiasm for creating seamless and efficient web applications. I am doing specialization in the MERN (MongoDB, Express.js, React.js, Node.js) stack, where I bring both frontend and backend components to life.<h1 align="center">Hi 👋, I'm Harshada Jagtap</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h1 align="center">Hi 👋, I'm Harshada Jagtap</h1>
+🚀 Welcome to my GitHub space! I'm passionate Web Developer with a relentless enthusiasm for creating seamless and efficient web applications. I am doing specialization React.js,Java, PHP. 
 <img align="center" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" style="max-width: 100%; height: auto;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadacsgithub&label=Profile%20views&color=0e75b6&style=flat" alt="harshadacsgithub" /> </p>
