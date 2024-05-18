@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=harshadacsgithub&label=Profile%20views&color=0e75b6&style=flat" alt="harshadacsgithub" />
 </p>
 <br>
-<br>
 
 - 🔭 I’m currently working on **Front end technologies**
 
