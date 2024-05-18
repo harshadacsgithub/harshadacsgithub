@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshada Jagtap</h1>
 <h3 align="center">A passionate software engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/young-male-developer-is-programming-code-script-late-night-with-beautiful-city-lights_197602-1828.jpg?w=996">
+<img align="right" alt="Coding" width="400" src="https://thumbs.dreamstime.com/b/young-programmer-concentrated-working-project-developing-programming-coding-technologies-screen-codes-developer-271715415.jpg?w=992">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshadacsgithub&label=Profile%20views&color=0e75b6&style=flat" alt="harshadacsgithub" /> </p>
 
